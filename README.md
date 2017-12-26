@@ -1,0 +1,2 @@
+# pemanggilq
+script pemanggil
